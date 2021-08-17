@@ -10,8 +10,7 @@
 StarCraft with Declarative Programming</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(3).pdf" style="text-decoration:none;">Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(4).pdf" style="text-decoration:none;">Learning Macromanagement in Starcraft by Deep Reinforcement Learning</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(5).pdf" style="text-decoration:none;">Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(6).pdf" style="text-decoration:none;">Multiagent Bidirectionally-Coordinated Nets
 for Learning to Play StarCraft Combat Games</a></li>
@@ -71,6 +70,13 @@ for In-Game Build Order Adaptation in StarCraft</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(34).pdf" style="text-decoration:none;">Learning from Demonstration for Goal-Driven Autonomy</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(35).pdf" style="text-decoration:none;">Incorporating Search Algorithms into RTS Game Agents</a></li> 
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(36).pdf" style="text-decoration:none;">Grandmaster level in StarCraft II using
+multi-agent reinforcement learning</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/StarCraft-AI-Papers/blob/master/s(37).pdf" style="text-decoration:none;">StarCraft II: A New Challenge for
+Reinforcement Learning</a></li>  
+  
 
   </ul>
 
